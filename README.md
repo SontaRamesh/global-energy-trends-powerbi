@@ -5,7 +5,7 @@ This project explores global energy consumption and generation trends using Powe
 ## 📂 Project Structure
 - 📁 📄 [View Project Documentation](global-energy-trends-powerbi.pdf)
  – Contains project write-up and field mapping
-- 📁 ![Global Energy Trends Through Time](Global Energy Trends Through Time.png)
+- 📁 [Global Energy Trends Through Time](GlobalEnergyTrendsThroughTime.png)
  – Screenshots of Power BI dashboards
 - 📁 [Demonstration-video](https://drive.google.com/file/d/1aE8ixtDsHZQyqEsqikRyRpKbbwZ9fteE/view?usp=sharing)] – Demo video walkthrough of all dashboards
 
