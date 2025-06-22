@@ -6,7 +6,7 @@ This project explores global energy consumption and generation trends using Powe
 - 📁 📄 [View Project Documentation](global-energy-trends-powerbi.pdf)
  – Contains project write-up and field mapping
 - 📁 `dashboards/` – Screenshots of Power BI dashboards
-- 📁 `video/` – Demo video walkthrough of all dashboards
+- 📁 [Demonstration-video](https://drive.google.com/file/d/1aE8ixtDsHZQyqEsqikRyRpKbbwZ9fteE/view?usp=sharing)] – Demo video walkthrough of all dashboards
 
 ## 🎯 Objectives
 - Analyze continent- and country-level energy usage
