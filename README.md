@@ -3,7 +3,7 @@
 This project explores global energy consumption and generation trends using Power BI dashboards, supported by clean datasets, mapping tables, and scenario-based analysis.
 
 ## 📂 Project Structure
-- 📁 📄 [View Project Documentation](7. Project Documentation and Demonstration/global-energy-trends-powerbi.pdf)
+- 📁 📄 [View Project Documentation](./7.%20Project%20Documentation%20and%20Demonstration/global-energy-trends-powerbi.pdf)
  – Contains project write-up and field mapping
 - 📁 [Demonstration-video](https://drive.google.com/file/d/1aE8ixtDsHZQyqEsqikRyRpKbbwZ9fteE/view?usp=sharing)] – Demo video walkthrough of all dashboards
 
